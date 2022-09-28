@@ -1,0 +1,9 @@
+body {
+background-color: rgb(132, 186, 233);
+}
+canvas{
+    border: 15px;
+    color: rgb(125, 180, 228);
+    border-radius: 20px ;
+    box-shadow:5px 5px 5px rgb(252, 86, 86);
+}
